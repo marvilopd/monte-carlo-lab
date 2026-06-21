@@ -26,17 +26,26 @@ The focus is on understanding mathematical concepts through implementation.
 
 ---
 
-## 🧪 Structure
+## 🧱 Structure
 monte-carlo-lab/
 │
-
 ├── core/ # reusable simulation functions
-
+│ ├── simulator.py
+│ └── utils.py
+│
 ├── experiments/ # weekly experiments
-
-├── results/ # plots and outputs
-
+│ ├── week1_coin_toss.py
+│ ├── week2_dice.py
+│ ├── week3_pi_estimation.py
+│ ├── week4_random_walk.py
+│ ├── week5_gambling_ruin.py
+│ └── week6_portfolio_risk.py
+│
+├── results/
+│ └── plots/
+│
 ├── README.md
+└── requirements.txt
 
 ---
 
