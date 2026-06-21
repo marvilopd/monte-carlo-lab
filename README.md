@@ -29,9 +29,13 @@ The focus is on understanding mathematical concepts through implementation.
 ## 🧪 Structure
 monte-carlo-lab/
 │
+
 ├── core/ # reusable simulation functions
+
 ├── experiments/ # weekly experiments
+
 ├── results/ # plots and outputs
+
 ├── README.md
 
 ---
