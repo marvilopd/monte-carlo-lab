@@ -1,6 +1,12 @@
 import numpy as np
 
 def dice_expected_value(n=10000):
+    """
+    Estimates the expected value of a fair six-sided die
+    using Monte Carlo simulation.
+
+    The theoretical value is 3.5.
+    """
     total = 0
     for _ in range(n):
         total += np.random.randint(1, 7)
