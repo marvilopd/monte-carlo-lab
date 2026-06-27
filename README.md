@@ -74,6 +74,7 @@ This project is a step toward understanding these systems from first principles.
 ## 📌 Status
 
 Work in progress – updated weekly.
+Only gets worked on Saturdays
 
 ---
 
