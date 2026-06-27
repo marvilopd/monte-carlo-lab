@@ -1,7 +1,6 @@
 # Monte Carlo Lab
 
-A Python-based Monte Carlo simulation lab for probability, stochastic processes, and decision modeling under uncertainty.
-
+A growing Monte Carlo simulation lab. Modules are developed and refined iteratively.
 ---
 
 ## 🎯 Goal
@@ -21,7 +20,9 @@ Build intuition for probability and randomness through simulations.
 
 ---
 
-## 📅 Weekly Progress
+## 🧪 Experimental Modules (Work in Progress)
+
+Each module is implemented independently and improved over time.
 
 ### Week 1 – Coin Toss
 Basic probability convergence
